@@ -121,6 +121,7 @@ This workshop demonstrates how to:
 
 🎯 Final Outcome:
 A working, industry-relevant LLM integration that can be extended into real-world AI systems.
+LLM testing framework using LangChain and Groq, integrated with LangSmith for observability
 
 📌 Future Enhancements
 
